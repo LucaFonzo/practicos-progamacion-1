@@ -1,4 +1,4 @@
-package arreglos;
+package practicos2022.arreglos;
 /*
 3. Hacer un programa que dado un arreglo de enteros de tamaño 10 que se encuentra
 precargado, solicite al usuario una posición y realice un corrimiento a izquierda o hacia la

@@ -1,4 +1,4 @@
-package arreglos;
+package practicos2022.arreglos;
 /*
 * Hacer un programa que dado un arreglo de enteros de tamaño 10 que se encuentra
 precargado, solicite al usuario un numero entero y lo agregue al principio del arreglo

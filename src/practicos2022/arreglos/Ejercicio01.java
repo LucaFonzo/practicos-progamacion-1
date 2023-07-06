@@ -1,4 +1,4 @@
-package arreglos;
+package practicos2022.arreglos;
 
 import java.util.Random;
 
