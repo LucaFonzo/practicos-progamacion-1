@@ -26,6 +26,7 @@ public class Ejercicio17 {
     public static int MAXVALOR = 9;
     public static int MINVALOR = 1;
     public static double probabilidad_letra = 0.4;
+    /*
 
     public static void main(String[] args) {
         char [] arrA = new char[MAX];
@@ -52,7 +53,7 @@ public class Ejercicio17 {
         while (inicioA <= finA && inicioB <= finB){
             arrA[inicioA] = arrB[inicioB];
             inicioA++;
-            inicioB++;
+
         }
     }
     public static void imprimir_arreglo_secuencias_char(char [] arr){
@@ -77,5 +78,5 @@ public class Ejercicio17 {
             }
         }
     }
-
+*/
 }
